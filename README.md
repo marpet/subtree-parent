@@ -1,0 +1,2 @@
+# foreignSubModule
+External test repository
